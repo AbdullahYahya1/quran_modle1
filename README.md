@@ -10,7 +10,7 @@ You can explore the live website and see the model in action at the following li
 ## Accessing the Data
 
 If you need the data used by this  code , it's available for download via Google Drive:
-- [Download Data from Google Drive](https://drive.google.com/drive/folders/1lzsp8ZnZvIkmvADebg5yS3hLc2MlL_ij?usp=sharing)
+- [Download Data from Google Drive](https://drive.google.com/file/d/1B5i7UQnN5LzO07bFQ6avmDudliLWLmwb/view?usp=drive_link)
 
 ## Contribution
 
